@@ -18,4 +18,6 @@ we will make cassandra model to help in some queries and answer on all questions
 - os
 - glob
 - pandas
--nosql(cassandra)
+- nosql(cassandra)
+- json
+- csv
